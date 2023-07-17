@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\xaydunglopfan\bin\Debug\xaydunglopfan.exe.config
+C:\Users\tuan\Desktop\xaydunglopfan\bin\Debug\xaydunglopfan.exe
+C:\Users\tuan\Desktop\xaydunglopfan\bin\Debug\xaydunglopfan.pdb
+C:\Users\tuan\Desktop\xaydunglopfan\obj\Debug\xaydunglopfan.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\xaydunglopfan\obj\Debug\xaydunglopfan.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\xaydunglopfan\obj\Debug\xaydunglopfan.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\xaydunglopfan\obj\Debug\xaydunglopfan.exe
+C:\Users\tuan\Desktop\xaydunglopfan\obj\Debug\xaydunglopfan.pdb
